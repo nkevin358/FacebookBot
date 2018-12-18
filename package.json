@@ -1,0 +1,23 @@
+{
+  "name": "facebookbot",
+  "version": "1.0.0",
+  "description": "Simple Facebook Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nkevin358/FacebookBot.git"
+  },
+  "author": "Kevin Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nkevin358/FacebookBot/issues"
+  },
+  "homepage": "https://github.com/nkevin358/FacebookBot#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
